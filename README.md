@@ -1,0 +1,2 @@
+# quotes-web-application
+# InspiroQuotes
